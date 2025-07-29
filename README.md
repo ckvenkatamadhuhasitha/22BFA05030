@@ -8,12 +8,12 @@ Shorten long URLs, optionally give a custom shortcode, set expiry time, track cl
 
 ## Features
 
-- ✅ Create short URLs for any long URL
-- ???? Optional **custom shortcode**
-- ⏱️ Set **expiry time** (in minutes)
-- ???? Record how many times each short link is clicked
-- ???? Reset all stats with a **Clear Stats** button
-- ???? Entirely in-browser using JavaScript hash routing
+-  Create short URLs for any long URL
+-  Optional **custom shortcode**
+-  Set **expiry time** (in minutes)
+-  Record how many times each short link is clicked
+-  Reset all stats with a **Clear Stats** button
+-  Entirely in-browser using JavaScript hash routing
 
 ---
 
