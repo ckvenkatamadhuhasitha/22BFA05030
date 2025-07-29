@@ -1,4 +1,4 @@
-# Simple URL Shortener (Frontend Only)
+# Simple URL Shortener 
 
 A complete URL shortener made with **pure HTML, CSS, and JavaScript**.
 
