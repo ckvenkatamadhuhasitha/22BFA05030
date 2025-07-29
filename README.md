@@ -1,4 +1,4 @@
-# ???? Simple URL Shortener (Frontend Only)
+# Simple URL Shortener (Frontend Only)
 
 A complete URL shortener made with **pure HTML, CSS, and JavaScript**.
 
@@ -6,7 +6,7 @@ Shorten long URLs, optionally give a custom shortcode, set expiry time, track cl
 
 ---
 
-## ???? Features
+## Features
 
 - ✅ Create short URLs for any long URL
 - ???? Optional **custom shortcode**
@@ -17,7 +17,7 @@ Shorten long URLs, optionally give a custom shortcode, set expiry time, track cl
 
 ---
 
-## ????️ UI Preview
+## UI Preview
 
 The app features a sleek, modern design:
 
@@ -28,5 +28,5 @@ The app features a sleek, modern design:
 
 ---
 
-## ???? Project Structure
+
 
